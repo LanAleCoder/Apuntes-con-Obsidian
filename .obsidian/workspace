@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "a6db207900fc1df2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a8f5b2fe8d2bdc2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "JavaScript/JavaScript.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2e3fbd4b44df721",
+    "type": "split",
+    "children": [
+      {
+        "id": "b712082d3110324f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d05c623e4ad267f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4c34961a13d54e58",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3dd7012e404591fc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "16df30ad10a55658",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a357ed6ebf2fa61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69cf1e8f911f6e7c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JavaScript/JavaScript.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9d395ce41edebb03",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "JavaScript/JavaScript.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d2d28b65e9ae0bad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "34842d008b154c0a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JavaScript/JavaScript.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8d05c623e4ad267f",
+  "lastOpenFiles": [
+    "JavaScript/JavaScript.md",
+    "React JS/JSX.md",
+    "Untitled.md",
+    "MarkDown/MarkDown Cheat Sheet.md",
+    "MarkDown/cheatsheet1.png",
+    "React JS/babel_ejemplo.png",
+    "React JS/Buenas prácticas.md",
+    "React JS/React JS.md",
+    "MarkDown/Pasted image 20220811184625.png",
+    "[Cross-site.md"
+  ]
+}
